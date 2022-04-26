@@ -7,6 +7,6 @@ The algorithm consists of three cosequtive parts:
 2.   Finding the most related context to the question
 3.   Answering question based on the found context
 
-**Note:** The "text_data" folder is the sample dataset taken from Kaggle[link text](https://www.kaggle.com/datasets/rtatman/questionanswer-dataset) dataset. We need this beside our project, but the Squad dataset will be downloaded inside project and is added to this repo for convenience.
+**Note:** The "text_data" folder is the sample dataset taken from [Kaggle](https://www.kaggle.com/datasets/rtatman/questionanswer-dataset) dataset. We need this beside our project, but the Squad dataset will be downloaded inside project and is added to this repo for convenience.
 
 More details are included in the ipynb file.
